@@ -14,7 +14,7 @@
 # You can delete this file afterwards.
 
 
-#Ads
+# Ads, tracking and general junk
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
 0.0.0.0 cdn.appround.biz
@@ -39780,18 +39780,9 @@
 0.0.0.0 www.mywot.com
 0.0.0.0 www.mywot.net
 0.0.0.0 www.torrenty-org.pl
-#=====================================
 
 
-# Gambling hosts
-
-# https://www.reddit.com/r/GlobalOffensiveGamble/comments/3d5fmr/list_of_csgo_gambling_websites/
-
-# http://www.top100bookmakers.com/completelist.php
-
-# Updated December 15, 2016
-
-
+# Gambling Sites
 
 0.0.0.0 www.10bet.com
 0.0.0.0 10luxury39.com
@@ -41307,18 +41298,9 @@
 0.0.0.0 www.zebrabet.com.au
 0.0.0.0 zetpoker.eu
 0.0.0.0 www.zetpoker.eu
-# This is a custom hosts file with all the porn sites I could find.
-
-# It contains over 5,800 domains with no duplicates.
-
-# An updated version is always available at https://github.com/Clefspeare13/pornhosts
-
-# Submit complaints or suggestions here https://github.com/Clefspeare13/pornhosts/issues
 
 
-
-# localhost
-
+# Porn Sites 
 
 
 # Porn Domains
@@ -49177,11 +49159,9 @@
 0.0.0.0 www.zorglist.com
 0.0.0.0 www.ztod.com
 0.0.0.0 www.zzcartoon.com
-# Social media hosts
-
-# Updated April 16, 2016
 
 
+# Social Media
 
 # Facebook
 
@@ -49430,24 +49410,9 @@
 0.0.0.0 38.media.tumblr.com
 
 
-# google plus
+# Google
 
 0.0.0.0 plus.google.com
-# blacklist
-
-#
-
-# The contents of this file (containing a listing of additional domains in
-
-# 'hosts' file format) are appended to the unified hosts file during the
-
-# update process. For example, uncomment the following line to block
-
-# 'example.com':
-
-
-
-# 0.0.0.0 example.com
 0.0.0.0 google.com
 0.0.0.0 www.google.com
 0.0.0.0 google.ac
@@ -49724,3 +49689,4 @@
 0.0.0.0 gv.com
 0.0.0.0 blog.google
 0.0.0.0 localguidesconnect.com
+
