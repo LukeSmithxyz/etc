@@ -12,6 +12,9 @@
 # cat ips >> /etc/hosts
 #
 # You can delete this file afterwards.
+#
+# To use this on Windows, add it to the end of:
+# C:\Windows\System32\drivers\etc\hosts
 
 
 # Ads, tracking and general junk
