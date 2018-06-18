@@ -2,7 +2,7 @@
 # of the ad sites, porn and general junk on this
 # list, including Google.
 #
-# Fell free to add or subtract sites as necessary.
+# Feel free to add or subtract sites as necessary.
 #
 # For linux noobs, to add this to /etc/hosts,
 # run the following in the same directory of this
@@ -18185,17 +18185,17 @@
 0.0.0.0 woche.oewabox.at
 0.0.0.0 wohnnet.oewabox.at
 0.0.0.0 zfm.oewabox.at
-0.0.0.0 ak.imgfarm.com	
-0.0.0.0 global.msads.net	
-0.0.0.0 lads.myspace.com	
-0.0.0.0 refer.ccbill.com	
-0.0.0.0 rmads.msn.com		
-0.0.0.0 www.apmebf.com	
-0.0.0.0 www.tkqlhce.com	
+0.0.0.0 ak.imgfarm.com
+0.0.0.0 global.msads.net
+0.0.0.0 lads.myspace.com
+0.0.0.0 refer.ccbill.com
+0.0.0.0 rmads.msn.com
+0.0.0.0 www.apmebf.com
+0.0.0.0 www.tkqlhce.com
 0.0.0.0 ad.ca.doubleclick.net
-0.0.0.0 transfer.go.com	
+0.0.0.0 transfer.go.com
 0.0.0.0 140cc.v.fwmrm.net
-0.0.0.0 ad.hulu.com	
+0.0.0.0 ad.hulu.com
 0.0.0.0 adf.ly
 0.0.0.0 ads.channel4.com
 0.0.0.0 b.scorecardresearch.com
@@ -18204,7 +18204,7 @@
 0.0.0.0 fbcdn-creative-a.akamaihd.net
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 pixel.quantserve.com	
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 tap2-cdn.rubiconproject.com
 0.0.0.0 www.awin1.com
 0.0.0.0 0101011.com
@@ -41303,7 +41303,7 @@
 0.0.0.0 www.zetpoker.eu
 
 
-# Porn Sites 
+# Porn Sites
 
 
 # Porn Domains
@@ -49692,4 +49692,3 @@
 0.0.0.0 gv.com
 0.0.0.0 blog.google
 0.0.0.0 localguidesconnect.com
-
